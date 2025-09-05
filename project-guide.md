@@ -56,8 +56,11 @@
 
 =============== REMINDERS ===============
 
-1. Create a branch every week. Branch name format: name-week1
+1. Work on backend and frontend separately. If frontend, 'cd frontend' muna before you do anything. Same goes if backend-related.
 
-2. daisyUI: https://daisyui.com/
+2. Update your repository everytime-- before gumawa and mag-commit. Make sure nasa root folder kada mag a-add ng changes-- not inside backend or frontend.
+    git pull origin main
 
-3. 
+3. Create a branch every week. Branch name format: name-week1
+
+4. daisyUI: https://daisyui.com/
